@@ -6,10 +6,10 @@ I'm a passionate software engineer with > one year of experience. I specialize i
 
 ## 🚀 Skills & Technologies
 
-**Languages**: Java, C++
-**Technologies/Frameworks** : Spring Boot, Hibernate, Rest API, JUnit, SQS, S3
-**Databases/Tools** : MySQL, Git, Jenkins, Kibana
-**Familiar**: Javascript, MongoDB, React
+- **Languages**: Java, C++
+- **Technologies/Frameworks** : Spring Boot, Hibernate, Rest API, JUnit, SQS, S3
+- **Databases/Tools** : MySQL, Git, Jenkins, Kibana
+- **Familiar**: Javascript, MongoDB, React
 
 ## 🎓 Education
 
